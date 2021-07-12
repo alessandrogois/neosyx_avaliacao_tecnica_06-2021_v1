@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.questao {
+  margin: 50px 300px;
+  padding-top: 20px;
+  background-color: rgba(50, 30, 20, 0.3);
+  border: 2px #0f0f0f solid;
+  border-radius: 5px;
+}
